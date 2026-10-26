@@ -44,5 +44,5 @@ It uses the token counts of the agent's latest model request against the context
 
 ## Development
 
-Run `claude plugin test agent-dashboard` to run the tests.
-Run `claude plugin validate agent-dashboard` to validate the manifest.
+Run `claude plugin test ./agent-dashboard` to run the tests.
+Run `claude plugin validate ./agent-dashboard` to validate the manifest.

@@ -1,0 +1,1 @@
+{ "name": "agent-dashboard", "version": "0.1.0", "description": "A live side pane that shows every sub-agent with status, progress, context usage, current activity, prompt and result.", "types": "./types/index.d.ts" }
